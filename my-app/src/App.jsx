@@ -4,7 +4,7 @@ import "./index.css";
 function App() {
   return (
     <div style={{ fontFamily: "Arial, sans-serif", padding: "20px", maxWidth: "600px", margin: "auto" }}>
-      
+      {/*npm run dev  */}
       <section style={{ borderBottom: "2px solid #eee", marginBottom: "20px" }}>
         <h1 style={{ color: "#2c3e50" }}>Mostafa Mahmoud Ismail</h1>
         <h2 style={{ color: "#7f8c8d" }}>Frontend Developer</h2>
