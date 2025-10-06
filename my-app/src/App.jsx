@@ -15,8 +15,8 @@ function App() {
       <section style={{ marginBottom: "20px" }}>
         <h3 style={{ color: "#2980b9" }}>Experience</h3>
         <ul>
-          <li>Software Tester at Vodafone Egypt (2024–Present)</li>
-          <li>Frontend Intern at ITI – React & TypeScript (2023)</li>
+          <li>Software Tester at target (2024–Present)</li>
+          <li>Frontend Intern at ITI – React & TypeScript</li>
         </ul>
       </section>
 
