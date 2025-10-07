@@ -8,7 +8,7 @@ function App() {
       <section style={{ borderBottom: "2px solid #eee", marginBottom: "20px" }}>
         <h1 style={{ color: "#2c3e50" }}>Mostafa Mahmoud Ismail</h1>
         <h2 style={{ color: "#7f8c8d" }}>Frontend Developer</h2>
-        <p>Email: <a href="mailto:ahmed@example.com">mostafa@gmail.com</a></p>
+        <p>Email: <a href="mailto:mostafa@gmail.com">mostafa@gmail.com</a></p>
         <p>Phone: +20 123 456 7890</p>
       </section>
 
